@@ -1,0 +1,5 @@
+Logistic Regression Accuracy Score: 0.8640
+Logistic Regression F1 Score: 0.2053
+Logistic Regression Precision Score: 0.1352
+Logistic Regression Recall Score: 0.4257
+Logistic Regression AUC: 0.6543
