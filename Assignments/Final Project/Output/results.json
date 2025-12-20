@@ -1,0 +1,27 @@
+{
+  "final_model": "Ridge",
+  "val_results": [
+    {
+      "name": "Ridge",
+      "mae": 2.4044050625213136,
+      "rmse": 2.6901464786363163
+    },
+    {
+      "name": "Lasso",
+      "mae": 2.54,
+      "rmse": 2.735161989921458
+    },
+    {
+      "name": "RandomForest",
+      "mae": 3.3351880895441424,
+      "rmse": 4.609277366904484
+    }
+  ],
+  "test_metrics": {
+    "name": "Ridge (TEST)",
+    "mae": 3.0834439668338174,
+    "rmse": 3.7052439414688654
+  },
+  "baseline_test_mae": 3.5615384615384613,
+  "baseline_test_rmse": 4.173553283300335
+}

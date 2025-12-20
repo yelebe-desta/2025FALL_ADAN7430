@@ -1,0 +1,11 @@
+[
+  "cpi_rate",
+  "money_rate",
+  "housing_rate",
+  "credit_rate",
+  "slope",
+  "global_credit_rate",
+  "global_slope",
+  "debtgdp_level",
+  "debtgdp_change"
+]

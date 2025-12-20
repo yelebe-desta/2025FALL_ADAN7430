@@ -1,0 +1,31 @@
+{
+  "country_col": "country",
+  "year_col": "year",
+  "crisis_col": "crisisJST",
+  "gdp_col": "rgdpmad",
+  "raw_cols": {
+    "cpi": "cpi",
+    "money": "money",
+    "housing": "hpnom",
+    "credit": "tloans",
+    "gdp": "gdp",
+    "debtgdp": "debtgdp",
+    "ltrate": "ltrate",
+    "stir": "stir"
+  },
+  "pre_peak_window": 5,
+  "max_horizon": 15,
+  "drop_unrecovered": false,
+  "exclude_shock_years": true,
+  "feature_cols": [
+    "cpi_rate",
+    "money_rate",
+    "housing_rate",
+    "credit_rate",
+    "slope",
+    "global_credit_rate",
+    "global_slope",
+    "debtgdp_level",
+    "debtgdp_change"
+  ]
+}
